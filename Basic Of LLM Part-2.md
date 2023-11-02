@@ -34,6 +34,6 @@ For now, by grasping the diverse applications of LLMs, you'll better appreciate 
 
 Certainly! Here's the text with emojis added:
 
-[Next Lesson](Task-2.md) 🔙📚
+[Next Lesson](Task-2.md) 📖👣🔜
 
 [Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/edit/main/Basic%20Of%20LLM%20Part-2.md) 🔙📚
