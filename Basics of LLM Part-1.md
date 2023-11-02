@@ -1,5 +1,3 @@
-Certainly! Here's the text with emojis added to make it more engaging:
-
 # Basics of Large Language Models (LLMs) 📚🌟
 
 Welcome to the world of Large Language Models (LLMs)!
