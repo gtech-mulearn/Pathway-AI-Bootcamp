@@ -34,4 +34,4 @@ For now, by grasping the diverse applications of LLMs, you'll better appreciate 
 
 [Next Lesson](Task-2.md) 📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/edit/main/Basic%20Of%20LLM%20Part-2.md) 🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Basics%20Of%20LLM%20Part-1.md) 🔙📚
