@@ -14,3 +14,5 @@ Hey, folks! 😄 I've just completed Level 1 of the Pathway AI Bootcamp. Check o
 Let's dive into this adventure of learning together! 🌟🚀
 
 [Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Basics%20Of%20LLM%20Part-1.md) 📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Introduction%20Part-2.md) 🔙📚
