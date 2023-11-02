@@ -28,4 +28,4 @@ Ready to kickstart your LLM journey? The adventure awaits! 🚀🌟
 
 [Next Lesson](Task-1.md) 📖👣🔜
 
-[Previous Lesson](Introducation.md)🔙📚
+[Previous Lesson](Introduction.md)🔙📚
