@@ -1,5 +1,3 @@
-Certainly, here's the text with a lot of emojis for added enthusiasm:
-
 # 1.2. Greetings from Your Instructors | Introduction
 
 Hello learners! Before we dive deep into the fascinating world of Large Language Models, we have a special video greeting from your instructor, Anup Surendran. Anup is not just an expert in the field but also the founder of the popular YouTube channel "Data Science and AI for Beginners and Kids." 📺🎥
