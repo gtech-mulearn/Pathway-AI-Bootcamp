@@ -14,7 +14,7 @@ Hey, folks! 😄 I've just completed Level 1 of the Pathway AI Bootcamp. Check o
 Let's dive into this adventure of learning together! 🌟🚀
 
 <details>
-<summary>🚨 Alert: Completing this task is important!</summary>
+<span style="color:red; font-weight:bold;">🚨 Important: Completing this task is crucial!</span>
 
 Completing this task will grant you access to the next level's channel in the µLearn Discord server. Don't miss out on the next level of the adventure!
 
