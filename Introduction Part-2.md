@@ -28,4 +28,4 @@ Ready to kickstart your LLM journey? The adventure awaits! 🚀🌟
 
 [Next Lesson](Task-1.md) 📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/edit/main/Introduction%20Part-1.md)🔙📚
+[Previous Lesson](Introducation.md)🔙📚
