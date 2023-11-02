@@ -32,8 +32,6 @@ For a deeper dive into the expansive world of LLM applications, feel free to exp
 
 For now, by grasping the diverse applications of LLMs, you'll better appreciate their transformative potential, setting the stage for the more detailed modules to come. 🌟
 
-Certainly! Here's the text with emojis added:
-
 [Next Lesson](Task-2.md) 📖👣🔜
 
 [Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/edit/main/Basic%20Of%20LLM%20Part-2.md) 🔙📚
