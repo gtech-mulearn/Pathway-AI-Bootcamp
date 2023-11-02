@@ -16,6 +16,7 @@ To guide us on this exploration, we have a special video by Mike Chambers from A
 This video serves as an essential foundation and a smooth start for your learning journey.
 
 [![Watch the Video](https://img.youtube.com/vi/WJZZwoToUec/0.jpg)](https://youtu.be/WJZZwoToUec)
+
 (Credits: Build on AWS) 📺👨‍💻
 
 Ready to dive into the captivating world of LLMs? Let's get started! 🌟🚀🎉
