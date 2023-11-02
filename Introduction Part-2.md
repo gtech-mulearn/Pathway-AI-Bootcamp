@@ -8,7 +8,7 @@ In this introductory video, Anup will cover:
 - The immense importance of understanding LLMs in today's world
 - What you can expect to gain at the end of this course
 
-_ Sneak Peek: We will also demonstrate an example open-source LLM application that you'll be able to and are supposed to build by the end of this course. 🎉
+Sneak Peek: We will also demonstrate an example open-source LLM application that you'll be able to and are supposed to build by the end of this course. 🎉
 
 ## 1.3. Your First Exercise | Introduction
 
