@@ -12,3 +12,4 @@
 Hey, folks! 😄 I've just completed Level 1 of the Pathway AI Bootcamp. Check out my tweet on Twitter and my LinkedIn post to see what I've learned from this exciting task: {twitter link} 🐦 {LinkedIn link} 💼 #Pathway #MuLearn
 
 Let's dive into this adventure of learning together! 🌟🚀
+[Next Lesson](task1.md) 📖👣🔜
