@@ -33,11 +33,3 @@ These advantages enable LLMs to be employed in a wide range of practical applica
 For a deeper dive into the expansive world of LLM applications, feel free to explore this [Nvidia article](link_to_article) as a starting point. If you're curious about the potential limitations of LLMs as well, don't worry; we've got that covered towards the end of this course. 📚🔍
 
 For now, by grasping the diverse applications of LLMs, you'll better appreciate their transformative potential, setting the stage for the more detailed modules to come. 🌟
-
-## 2.3 Let's Track Our Progress 📈
-
-Up next is a 10-question graded quiz. It's designed to test your understanding of LLMs—from their advantages to applications. 📝
-
-Take this chance to self-assess and solidify your grasp of the topics covered.
-
-Ready? 🚀🤓📝
