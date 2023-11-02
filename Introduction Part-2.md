@@ -2,7 +2,8 @@
 
 Hello learners! Before we dive deep into the fascinating world of Large Language Models, we have a special video greeting from your instructor, Anup Surendran. Anup is not just an expert in the field but also the founder of the popular YouTube channel "Data Science and AI for Beginners and Kids."
 
-In this introductory video, Anup will cover: (https://www.youtube.com/watch?v=SJSyCH5yDSU)
+https://www.youtube.com/watch?v=SJSyCH5yDSU
+This introductory video will cover: (In case you missed the Kick-Off Session)
 
 - What you'll learn throughout this course
 - The immense importance of understanding LLMs in today's world
