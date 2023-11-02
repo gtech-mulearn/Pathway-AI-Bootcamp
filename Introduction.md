@@ -1,5 +1,3 @@
-Absolutely, here's the text with a lot of emojis for added excitement:
-
 # **Introduction to Large Language Models** 🚀📚
 
 ## **1.1. Course Overview | Introduction** 🌟
