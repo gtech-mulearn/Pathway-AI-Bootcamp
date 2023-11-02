@@ -20,3 +20,4 @@ This video serves as an essential foundation and a smooth start for your learnin
 (Credits: Build on AWS) 📺👨‍💻
 
 Ready to dive into the captivating world of LLMs? Let's get started! 🌟🚀🎉
+[Next Lesson](task1.md) 📖👣🔜
