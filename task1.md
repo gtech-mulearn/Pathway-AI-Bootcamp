@@ -1,5 +1,3 @@
-Certainly, here's the updated task with LinkedIn added:
-
 ## Task 1: Getting to know the Pathway Repository 50 Karma points 🚀🔍
 
 **Step 1** - Visit the Pathway Repository: [Pathway Repository Link](https://github.com/pathwaycom/llm-app) 🌐
