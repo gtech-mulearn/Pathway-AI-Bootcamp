@@ -13,9 +13,12 @@ Hey, folks! 😄 I've just completed Level 1 of the Pathway AI Bootcamp. Check o
 
 Let's dive into this adventure of learning together! 🌟🚀
 
-<summary><span style="color:red; font-weight:bold;">🚨 Important: Completing this task is crucial!</span></summary>
+<details>
+<summary><font color="red"><strong>🚨 Important: Completing this task is crucial!</strong></font></summary>
 
 Completing this task will grant you access to the next level's channel in the µLearn Discord server. Don't miss out on the next level of the adventure!
+
+</details>
 
 
 [Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Basics%20Of%20LLM%20Part-1.md) 📖👣🔜
