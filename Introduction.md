@@ -45,4 +45,4 @@ A heartfelt thanks to those who made this course richer with their expertise:
 
 Let's embark on this captivating voyage into the world of Large Language Models. Ready to dive in? 🌟
 
-[Next](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Introduction%20Part-2.md)
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Introduction%20Part-2.md)
