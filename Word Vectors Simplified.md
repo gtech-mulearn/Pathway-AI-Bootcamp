@@ -9,5 +9,4 @@ In the accompanying video, Anup Surendran lays down the foundation for understan
 - What do LLMs stand for?
 - What exactly are Word Vectors?
 
-🚀 Get started with the basics of Word Vectors and set the stage for your LLM journey!
-
+🚀 Get started with the basics of Word Vectors and set the stage for your LLM journey! 🌟📝
