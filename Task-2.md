@@ -6,6 +6,6 @@ Take this chance to self-assess and solidify your grasp of the topics covered.
 
 Ready? 🚀🤓📝
 
-[Next Lesson](Task-2.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified.md) 📖👣🔜
 
 [Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Basic%20Of%20LLM%20Part-2.md) 🔙📚
