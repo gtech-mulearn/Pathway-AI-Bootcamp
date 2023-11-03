@@ -12,6 +12,6 @@ In the accompanying video, Anup Surendran lays down the foundation for understan
 🚀 Get started with the basics of Word Vectors and set the stage for your LLM journey! 🌟📝
 
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-2.md) 📖👣🔜
 
 [Previous Lesson](Task-2.md) 🔙📚
