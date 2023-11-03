@@ -16,3 +16,7 @@ Whether it's attention mechanisms or RNNs, the goal is the same: to give the mod
 Context is not just a technical requirement but a functional necessity. By understanding the context, these models can perform tasks ranging from simple ones like spelling correction to complex ones like reading comprehension.
 
 So, the next time you see a language model perform a task incredibly well, remember that it's not just about the individual words but also the context in which they are used. 🤩🧐
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-3.md) 📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-2.md) 🔙📚
