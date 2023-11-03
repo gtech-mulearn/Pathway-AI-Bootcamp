@@ -10,10 +10,8 @@ To give you a more concrete understanding, our next resource is an insightful vi
 
 The video will guide you through how your prompts are processed to generate coherent text responses. This will set the stage for our subsequent discussions on Prompt Engineering and LLM pipelines, offering a cohesive picture of how these models operate. 🤓📊
 
-📺 [![Watch the Video](https://img.youtu.be/ibr5wmtinG0?si=uFmxljq3yj1NQHy3.jpg)](https://youtu.be/ibr5wmtinG0?si=uFmxljq3yj1NQHy3)
+📺 [![Watch the Video](https://img.youtube.com/vi/ibr5wmtinG0?si=uFmxljq3yj1NQHy3/0.jpg)](https://youtu.be/ibr5wmtinG0?si=uFmxljq3yj1NQHy3)
 
 **How LLMs Work | Introduction to Large Language Models (LLMs) (2/6)**
 
 (Credits: Build on AWS) 🎉
-
-Feel free to use this with even more emojis or let me know if you'd like any further changes! Enjoy your creative-looking README.
