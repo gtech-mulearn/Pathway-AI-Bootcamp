@@ -2,7 +2,7 @@
 
 Let's dive a bit deeper into the world of word vectors and explore how context comes into play. 
 
-([WVS ChatGPT.png](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/WVS%20ChatGPT.png))
+(https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/WVS%20ChatGPT.png)
 
 Imagine you're trying to understand the word "apple." Without context, it could be a fruit or a tech company. 🍏💻 But what if I say, "I ate an apple"? Now it's clear, right? Context helps us make sense of words, and it's no different for large language models. 🍏🍴
 
