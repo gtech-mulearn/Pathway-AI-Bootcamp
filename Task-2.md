@@ -1,4 +1,4 @@
-## 2.3 Let's Track Our Progress 📈
+## Task-2 Let's Track Our Progress 📈
 
 Up next is a 10-question graded quiz. It's designed to test your understanding of LLMs—from their advantages to applications. 📝
 
