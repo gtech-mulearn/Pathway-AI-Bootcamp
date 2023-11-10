@@ -44,3 +44,7 @@ To get started with the course, register and add yourself to the waitlist. Don't
 If you're excited about the world of AI and want to dive deep into Large Language Models, word vectors, and creating your own AI-powered applications, this course is for you. Join us on this exciting adventure and unlock the potential of AI with μLearn and Pathway! 🌟🌠
 
 Feel free to use this creative and colorful GitHub readme for your course! If you have any more ideas or need further modifications, just let me know! 😄🌈📜
+
+
+[Next Lesson](Introduction.md) 📖👣🔜
+
