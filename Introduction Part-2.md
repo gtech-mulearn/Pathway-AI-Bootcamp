@@ -20,9 +20,7 @@ To make this course interactive and engaging, let's get started with a small exe
 
 #### 2 Star the [GitHub Project](https://github.com/pathwaycom/llm-app): Visit this GitHub repository and give it a star. Doing so will not only show your support but also keep you updated as the project evolves. ⭐🚀
 
-#### 3 Fill Out This [Google Form](). Once you’ve completed the above-mentioned action items, please share your GitHub username with us for future references and opportunities. This will also grant you access to the Pathway Discord community by the time you’ve completed the course. [Google Form Link](#) 📝
-
-#### 4 Join [µLearn’s Discord community](https://mulearn.org): Join your peers and mentors as we embark on this short yet exciting learning journey. 🌐👥🚀
+#### 3 Join [µLearn’s Discord community](https://discord.com/invite/pathway): Join your peers and mentors as we embark on this short yet exciting learning journey. 🌐👥🚀
 
 Ready to kickstart your LLM journey? The adventure awaits! 🚀🌟
 
