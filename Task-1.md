@@ -4,7 +4,7 @@
 
 **Step 2** - Browse through the repository and try to understand what it does 🤓📂
 
-**Step 3** - Once you've completed the previous step, now post a tweet on Twitter and a LinkedIn post describing what you learned and any one functionality of the Pathway repo that excites you, with the hashtag #pathway #mulearn 📢🐦
+**Step 3** - Once you've completed the previous step, now post a tweet on Twitter or a LinkedIn post describing what you learned and anyone functionality of the Pathway repo that excites you, with the hashtag #pathway #mulearn 📢🐦
 
 **Step 4** - Paste the links to the tweet or LinkedIn post along with the hashtag #pathway-ai-level1 in the Level-1 channel to complete Level 1 and claim 50 karma points 📚✅
 
