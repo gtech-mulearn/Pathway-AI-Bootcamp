@@ -17,6 +17,6 @@ Context is not just a technical requirement but a functional necessity. By under
 
 So, the next time you see a language model perform a task incredibly well, remember that it's not just about the individual words but also the context in which they are used. 🤩🧐
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-3.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-4.md) 📖👣🔜
 
 [Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-2.md) 🔙📚
