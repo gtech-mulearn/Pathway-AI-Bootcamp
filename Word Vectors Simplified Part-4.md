@@ -15,3 +15,7 @@ The video will guide you through how your prompts are processed to generate cohe
 **How LLMs Work | Introduction to Large Language Models (LLMs) (2/6)**
 
 (Credits: Build on AWS) 🎉
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-3.md) 📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-3.md) 🔙📚
