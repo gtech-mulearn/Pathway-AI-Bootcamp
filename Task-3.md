@@ -1,11 +1,3 @@
-# **TASK-3: Word Vector Realm**
-
-🚀 Here, you'll embark on a journey delving into Word Vectors, The Role of Context in LLMs, and Transforming Vectors into LLM Responses.
-
-Start your adventure now by visiting [Level 3: Word Vector Realm](https://mulearn.org/r/pathway-level3).
-
-**Checkpoint 3:** Ensure you complete Level 3 and submit the task to gain access to ⁠lvl-4-submission.
-
 ### **Task 3: Word Vectors, Simplified | 200 Karma Points**
 
 **Step 1:** Visit the quiz on Word Vectors - [Word Vectors Quiz](https://quizizz.com/join?gc=95457817).  
