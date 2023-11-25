@@ -20,4 +20,5 @@ Hey, I've completed Level 3 of the Pathway AI Bootcamp. Check out my tweet to se
 
 
 [Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-4.md) 📖👣🔜
+
 [Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-4.md) 🔙📚
