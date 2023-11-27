@@ -23,3 +23,8 @@ This video is a valuable asset for anyone looking to enhance their understanding
 🎥 [Watch the Video](https://youtu.be/RIOqmpK5l3k) 🌐
 
 *Note: Make sure to check the video description for additional resources and references.* 📚💡
+
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Task-3.md) 📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering%20Part-1.md) 🔙📚
