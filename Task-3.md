@@ -8,7 +8,7 @@
 *Note: Completion of Level 3 opens the gateway to Level 4 of the bootcamp.* 🌐🔓
 
 **Example Message:**
-Hey, just aced Level 3 of the Pathway AI Bootcamp! Check out my tweet for insights - [Twitter Link](https://twitter.com/yourhandle/status/1234567890).
+Hey, just aced Level 3 of the Pathway AI Bootcamp!
 
 [Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering%20Part-1.md) 📖👣🔜
 
