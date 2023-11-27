@@ -10,6 +10,6 @@ So, where does prompt engineering fit in? Think of prompt engineering as the art
 
 However, for now, you can park the jargon and realize that each prompting approach has its strengths and limitations, but the aim is the same: to pull the most precise responses out of the LLM. 🎯💡
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-4.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering-Part-2.md) 📖👣🔜
 
 [Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Task-3.md) 🔙📚
