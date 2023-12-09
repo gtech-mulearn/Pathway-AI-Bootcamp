@@ -39,3 +39,7 @@ Up next is a series of learning resources created by Anup Surendran that sets th
 These aren't just buzzwords; they're your toolkit for unlocking the full potential of Large Language Models. Understanding these terms will be crucial as they lay the groundwork for our upcoming module, which delves into 'In-Context Learning.' So, stay tuned!
 
 🚀 Happy Learning! 📚
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-3.md)📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-1.md)🔙📚
