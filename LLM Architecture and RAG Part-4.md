@@ -26,3 +26,7 @@ In the final video of this module, Anup Surendran wraps up by summarizing key co
 📺 **[Watch the Video](https://youtu.be/OXZQBXBvOR4?t=963)**
 
 This comprehensive summary will help solidify the various concepts and technical components discussed throughout the module. Happy Learning! 🚀🧠
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-5.md)📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-3.md)🔙📚
