@@ -15,3 +15,7 @@ In this brief video, Anup provides a high-level breakdown of how in-context lear
 Understanding this architecture is essential for mastering the interaction between prompts and LLMs, a crucial skill for anyone looking to effectively deploy these models in a variety of settings.
 
 Happy Learning! 🚀📚
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-4.md)📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-2.md)🔙📚
