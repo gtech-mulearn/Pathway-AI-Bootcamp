@@ -19,6 +19,7 @@ For a video explanation, check out this video by IBM Research - [What is Retriev
 ---
 
 *Note: For the best learning experience, it's recommended to follow the sequential order of the modules in this repository.*
+
 [Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-2.md) 📖👣🔜
 
 [Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Task-4.md)🔙📚
