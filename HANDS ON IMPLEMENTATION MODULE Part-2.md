@@ -261,3 +261,9 @@ By following these steps, you should be able to get both the main application an
 💡An interesting thing to notice Interestingly if you quickly revisit the [LLM Architecture diagram](https://ai-community-iitb-organization.gitbook.io/10-days-llm-bootcamp/retrieval-augmented-generation-and-llm-architecture/llm-architecture-diagram-and-various-steps) we saw earlier, there was a prompt from a Customer Support Executive trying to understand the product release notes made by the development team. With something like the Dropbox app, that problem can be easily addressed.
 
 Now let's look at another example where we use an API as a data source.
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-3.md)📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-1.md)🔙📚
+
+
