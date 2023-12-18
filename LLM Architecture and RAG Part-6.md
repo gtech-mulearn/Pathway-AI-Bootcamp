@@ -79,3 +79,7 @@ Prompt engineering might seem like a lighter alternative but comes with its own 
 - **Token Limit Constraints:** Language models have built-in token limitations, restricting the amount of text they can process in a single prompt. This makes it challenging to include all the necessary information in one interaction.
 
 In contrast, RAG's approach of storing data in efficient vector indexes circumvents these limitations by facilitating quick and semantically relevant information retrieval, making it a more viable option for dealing with large and complex data sets.
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-1.md)📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-5.md)🔙📚
