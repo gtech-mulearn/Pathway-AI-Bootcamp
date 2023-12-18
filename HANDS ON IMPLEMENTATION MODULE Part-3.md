@@ -1,8 +1,10 @@
 # 6.4. Amazon Discounts App
 
 In this tutorial, we will build an app called "Amazon Discounts App" that can find real-time sales and deals for Amazon products by leveraging the LLM App library.
+
 ![Amazon](images/image1.png)
-In this case, instead of cloning this Discounts app repository, we'll try to observe and learn how it uses LLM App with the Rainforest Prices API to give the desired results.a
+
+In this case, instead of cloning this Discounts app repository, we'll try to observe and learn how it uses LLM App with the Rainforest Prices API to give the desired results.
 In this app, we have two data sources:
 
 This app relies on two primary data sources:
