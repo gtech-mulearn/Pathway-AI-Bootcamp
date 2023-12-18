@@ -30,3 +30,7 @@ Prompt engineering might seem like a lighter alternative but comes with its own 
 - **No Token Limit Constraints:** RAG's approach of storing data in efficient vector indexes facilitates dealing with large and complex data sets.
 
 In conclusion, RAG emerges as a more viable and efficient option for dealing with the challenges presented by fine-tuning and prompt engineering. 🌐🔍
+
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-6.md)📖👣🔜
+
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-4.md)🔙📚
