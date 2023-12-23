@@ -187,7 +187,7 @@ nano .env
 Populate the .env file with the following content, replacing placeholders with actual values. Replace the following while using the environment variables from below: `{OPENAI_API_KEY}` with your OpenAI API key. You can get it [here](https://beta.openai.com/account/api-keys) once you've logged in. And, replace `{REPLACE_WITH_DROPBOX_RELATIVE_PATH}` with the relative path where the Dropbox folder is located.
 ```env
 OPENAI_API_TOKEN={OPENAI_API_KEY}
-HOST=0.0.0.0
+HOST=api
 PORT=8080
 EMBEDDER_LOCATOR=text-embedding-ada-002
 EMBEDDING_DIMENSION=1536
