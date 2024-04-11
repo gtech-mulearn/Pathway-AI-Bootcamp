@@ -1,6 +1,6 @@
 ### **Task 3: Word Vectors, Simplified | 200 Karma Points** 🚀
 
-**Step 1:** Dive into the Word Vectors quiz - [Word Vectors Quiz](https://quizizz.com/join?gc=95457817).  
+**Step 1:** Dive into the Word Vectors quiz - [Word Vectors Quiz](https://quizizz.com/join?gc=74368697).  
 **Step 2:** Ace the quiz.  
 **Step 3:** Share your newfound wisdom! Tweet or post on LinkedIn about your key takeaways. Remember to copy the link to your tweet or post.  
 **Step 4:** Paste the link along with the hashtag #pathway-ai-level3 in ⁠lvl-3-submission to complete Level 3 and grab 200 karma points.
