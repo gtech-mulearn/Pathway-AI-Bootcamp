@@ -28,7 +28,7 @@ These advantages enable LLMs to be employed in a wide range of practical applica
 
 - **Financial Sector:** Earnings calls and financial meetings can be summarized efficiently. LLMs can also assist in fraud detection, making the financial world more secure. 💰🔒
 
-For a deeper dive into the expansive world of LLM applications, feel free to explore this [Nvidia article](link_to_article) as a starting point. If you're curious about the potential limitations of LLMs as well, don't worry; we've got that covered towards the end of this course. 📚🔍
+For a deeper dive into the expansive world of LLM applications, feel free to explore this [Nvidia article](https://resources.nvidia.com/en-us-large-language-model-ebooks) as a starting point. If you're curious about the potential limitations of LLMs as well, don't worry; we've got that covered towards the end of this course. 📚🔍
 
 For now, by grasping the diverse applications of LLMs, you'll better appreciate their transformative potential, setting the stage for the more detailed modules to come. 🌟
 
