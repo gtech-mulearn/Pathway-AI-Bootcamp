@@ -60,7 +60,7 @@ You can download Conda [here](https://docs.conda.io/en/latest/miniconda.html).
 
 Now that we have the pre-requisites, let's proceed. 😄
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-2.md)📖👣🔜
+[Next Lesson](../Level-6/HANDS-ON-IMPLEMENTATION-MODULE-Part-2.md)📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-6.md)🔙📚
+[Previous Lesson](../Level-5/LLM-Architecture-and-RAG-Part-6.md)🔙📚
 

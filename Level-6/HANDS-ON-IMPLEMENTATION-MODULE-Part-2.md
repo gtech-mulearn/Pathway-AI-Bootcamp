@@ -3,7 +3,7 @@
 Let's dive into the setup and operation of the Dropbox AI Chat tool, an innovative solution enabling you to efficiently search through extensive, unstructured documents stored in your Dropbox using advanced AI capabilities.
 
 What you'll be building can be seen below. In this particular showcase, we'll be cloning [this particular repository](https://github.com/pathway-labs/dropbox-ai-chat) to enable you to quickly build a similar application.
-![Drop Gif](images/image2.gif)
+![Drop Gif](../images/image2.gif)
 
 # 6.3.1. Building the app without Dockerization
 
@@ -262,8 +262,8 @@ By following these steps, you should be able to get both the main application an
 
 Now let's look at another example where we use an API as a data source.
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-3.md)📖👣🔜
+[Next Lesson](../Level-6/HANDS-ON-IMPLEMENTATION-MODULE-Part-3.md)📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-1.md)🔙📚
+[Previous Lesson](../Level-6/HANDS-ON-IMPLEMENTATION-MODULE-Part-1.md)🔙📚
 
 
