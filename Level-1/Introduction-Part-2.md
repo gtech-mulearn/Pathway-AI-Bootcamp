@@ -24,6 +24,6 @@ To make this course interactive and engaging, let's get started with a small exe
 
 Ready to kickstart your LLM journey? The adventure awaits! 🚀🌟
 
-[Next Lesson](Task-1.md) 📖👣🔜
+[Next Lesson](../Level-1/Task-1.md) 📖👣🔜
 
-[Previous Lesson](Introduction.md)🔙📚
+[Previous Lesson](../Level-1/Introduction.md)🔙📚
