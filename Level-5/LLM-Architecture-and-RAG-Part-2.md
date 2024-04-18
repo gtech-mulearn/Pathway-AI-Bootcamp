@@ -40,6 +40,6 @@ These aren't just buzzwords; they're your toolkit for unlocking the full potenti
 
 🚀 Happy Learning! 📚
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-3.md)📖👣🔜
+[Next Lesson](../Level-5/LLM-Architecture-and-RAG-Part-3.md)📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-1.md)🔙📚
+[Previous Lesson](../Level-5/LLM-Architecture-and-RAG-Part-1.md)🔙📚

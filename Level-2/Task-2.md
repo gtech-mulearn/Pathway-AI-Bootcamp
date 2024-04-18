@@ -23,6 +23,6 @@ Hey, I've completed Level 2 of the Pathway AI Bootcamp. Check out my tweet to se
 
 ---
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-1.md) 📖👣🔜
+[Next Lesson](../Level-3/Word-Vectors-Simplified-Part-1.md) 📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Basic%20Of%20LLM%20Part-2.md) 🔙📚
+[Previous Lesson](../Level-2/Basics-Of-LLM-Part-2.md) 🔙📚

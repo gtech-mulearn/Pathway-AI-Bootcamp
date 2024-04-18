@@ -10,6 +10,6 @@
 **Example Message:**
 Hey, just aced Level 3 of the Pathway AI Bootcamp!
 
-[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering%20Part-1.md) 📖👣🔜
+[Next Lesson](../Level-4/Prompt-Engineering-Part-1.md) 📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-4.md) 🔙📚
+[Previous Lesson](../Level-3/Word-Vectors-Simplified-Part-4.md) 🔙📚
