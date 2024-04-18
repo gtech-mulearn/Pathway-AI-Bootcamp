@@ -70,6 +70,6 @@ Curious to learn more? Once you’ve completed this course, you might want to ch
 
 Take your time to experiment and iterate, as mastery comes with practice and refinement. And remember, this is a living, evolving field; staying updated with best practices is key to success. 🚀✨
 
-[Next Lesson](../Level-4/Prompt-Engineering-Part-4.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering-Part-4.md) 📖👣🔜
 
-[Previous Lesson](../Level-4/Prompt-Engineering-Part-2.md) 🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering-Part-2.md) 🔙📚

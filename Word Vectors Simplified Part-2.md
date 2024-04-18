@@ -16,6 +16,6 @@ Understanding these relationships and their implications not only deepens our gr
 
 💡A practical insight: You’ll often hear the “vector embeddings” and “word vectors” being used interchangeably in the context of LLMs. As of now, OpenAI's text-embedding-ada-002 is commonly used for generating efficient vector embeddings from various types of structured and unstructured data. These are then stored in vector indexes, specialized data structures engineered to ensure rapid and relevant data access using these embeddings. 🚀
 
-[Next Lesson](../Level-3/Word-Vectors-Simplified-Part-3.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-3.md) 📖👣🔜
 
-[Previous Lesson](../Level-3/Word-Vectors-Simplified-Part-1.md) 🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Word%20Vectors%20Simplified%20Part-1.md) 🔙📚

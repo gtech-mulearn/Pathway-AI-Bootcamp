@@ -2,7 +2,7 @@
 
 In this tutorial, we will build an app called "Amazon Discounts App" that can find real-time sales and deals for Amazon products by leveraging the LLM App library.
 
-![Amazon](../images/image1.png)
+![Amazon](images/image1.png)
 
 In this case, instead of cloning this Discounts app repository, we'll try to observe and learn how it uses LLM App with the Rainforest Prices API to give the desired results.
 In this app, we have two data sources:
@@ -133,5 +133,5 @@ By following these steps, you're not just running code; you're actively engaging
 
 It's a step closer to implementing your LLM application that can have a meaningful impact. 💪
 
-[Previous Lesson](../Level-6/HANDS-ON-IMPLEMENTATION-MODULE-Part-2.md)🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-2.md)🔙📚
 

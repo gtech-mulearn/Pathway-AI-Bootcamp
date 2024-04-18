@@ -10,7 +10,7 @@ However, it’s important to learn that different LLMs have specific token limit
 
 If you try copy-pasting a long Wikipedia article (for example, that of Google), you’ll notice an error.
 
-![short pe](../images/PE-1,4.4.png)
+![short pe](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/PE-1%2C4.4.png)
 
 Think of token and word counts as your LLM's capacity. While tokens define the technical limit, estimated word counts translate this into a more human-understandable measure.
 
@@ -18,15 +18,15 @@ Think of token and word counts as your LLM's capacity. While tokens define the t
 
 **Comparative Analysis**: Token and Estimated Word Counts in a Few Leading LLMs 📊
 
-![table](../images/PE-1,4.4-table.png)
+![table](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/PE-1%2C4.4%20table.png)
 
 While the foundational knowledge provided is adequate for course progression, further exploration of tokens is available in the documentation linked below.
 
 - [Tokens and Efficient Prompt Design | Open AI](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)📘
 - [LLM AI Tokens | Microsoft](https://learn.microsoft.com/en-us/semantic-kernel/prompt-engineering/tokens) 📖
 
-[Next Lesson](../Level-4/Task-4.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Task-4.md) 📖👣🔜
 
-[Previous Lesson](../Level-4/Prompt-Engineering-Part-3.md)🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering%20Part-3.md)🔙📚
 
 

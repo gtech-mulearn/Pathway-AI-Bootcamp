@@ -50,6 +50,6 @@ Valérie agreed, solemnly. "Yes, but the key is recognizing which is which and a
 
 Sophie drove back to her precinct, and Valérie to her fortress of dreams, both forever bound by the curious adventure that had led them through the veils separating right and wrong, reality and virtuality.
 
-[Next Lesson](../Level-5/LLM-Architecture-and-RAG-Part-1.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-1.md) 📖👣🔜
 
-[Previous Lesson](../Level-4/Prompt-Engineering-Part-4.md)🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering-Part-4.md)🔙📚
