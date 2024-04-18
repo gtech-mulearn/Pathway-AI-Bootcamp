@@ -19,6 +19,6 @@ This video serves as an essential foundation and a smooth start for your learnin
 
 Ready to dive into the captivating world of LLMs? Let's get started! 🌟🚀🎉
 
-[Next Lesson](../Level-2/Basics-Of-LLM-Part-2.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Basic%20Of%20LLM%20Part-2.md) 📖👣🔜
 
-[Previous Lesson](../Level-1/Task-1.md) 🔙📚
+[Previous Lesson](Task-1.md) 🔙📚

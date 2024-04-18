@@ -21,6 +21,6 @@ Completing this task will grant you access to the next level's channel in the µ
 </details>
 
 
-[Next Lesson](../Level-2/Basics-Of-LLM-Part-1.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Basics%20Of%20LLM%20Part-1.md) 📖👣🔜
 
-[Previous Lesson](../Level-1/Introduction-Part-2.md) 🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Introduction%20Part-2.md) 🔙📚

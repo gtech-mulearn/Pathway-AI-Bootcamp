@@ -25,6 +25,6 @@ This video is a valuable asset for anyone looking to enhance their understanding
 *Note: Make sure to check the video description for additional resources and references.* 📚💡
 
 
-[Next Lesson](../Level-4/Prompt-Engineering-Part-3.md) 📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering%20Part-3.md) 📖👣🔜
 
-[Previous Lesson](../Level-4/Prompt-Engineering-Part-1.md) 🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/Prompt%20Engineering%20Part-1.md) 🔙📚

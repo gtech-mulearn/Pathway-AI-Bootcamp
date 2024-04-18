@@ -35,7 +35,7 @@ Let's look at a cleaner architecture diagram, and various steps of the pipeline 
 
 Now that we've explored the various components that make up the architecture of Large Language Models (LLMs), let's dive into how Retrieval-Augmented Generation (RAG) can work synergistically with these components of an LLM architecture. The aim is to show you how RAG can supercharge an LLM's capabilities by seamlessly integrating real-time or static data sources into the information retrieval and generation processes.
 
-![LLM](../images/image3.png)
+![LLM](https://drive.google.com/file/d/13MJhLUa7Nvtj7YZh1gXWVqMUT96iWF76/view?usp=sharing)
 
 ### LLM Architecture
 
@@ -80,6 +80,6 @@ Prompt engineering might seem like a lighter alternative but comes with its own 
 
 In contrast, RAG's approach of storing data in efficient vector indexes circumvents these limitations by facilitating quick and semantically relevant information retrieval, making it a more viable option for dealing with large and complex data sets.
 
-[Next Lesson](../Level-6/HANDS-ON-IMPLEMENTATION-MODULE-Part-1.md)📖👣🔜
+[Next Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/HANDS%20ON%20IMPLEMENTATION%20MODULE%20Part-1.md)📖👣🔜
 
-[Previous Lesson](../Level-5/LLM-Architecture-and-RAG-Part-5.md)🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/blob/main/LLM%20Architecture%20and%20RAG%20Part-5.md)🔙📚
